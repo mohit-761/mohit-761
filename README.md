@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohit Vishwakarma
 
-💻 **Backend Developer | Node.js | NestJS | TypeScript**
-🚀 Building Scalable Solutions with Node.js and Modern Technologies
+💻 Backend Developer | Node.js | NestJS | TypeScript  
+🚀 Building scalable APIs and backend systems
 
 ---
 
@@ -37,29 +37,32 @@ TypeORM • Git • Postman • Swagger • REST APIs
 
 ## 📌 Featured Projects
 
-### Senior Experts
+### 🚀 Senior Experts
 🔗 Live: [https://www.seniorexperts.in](https://www.seniorexperts.in/)
 
 * Built RBAC-based session booking system with JWT authentication.
 * Automated recurring tasks using RabbitMQ + Cron, reducing manual workload by 15%.
 * Contributed to Razorpay payment gateway integration, ensuring secure and seamless transactions.
+📌 *Private repository (company project)* 
 
 ---
 
-### Together Buying
+### 🚀 Together Buying
 🔗 Live: [https://togetherbuying.in](https://togetherbuying.in/)
 
 * Refactored a monolith into 3 microservices, improving scalability by 30%.
 * Enabled bulk uploads (Excel/ZIP), cutting content upload time by 40%.
 * Integrated Strapi CMS for efficient content management and delivery.
+📌 *Private repository (company project)* 
 
 ---
 
-### Grant Funds
+### 🚀 Grant Funds
 
 * Developed subscription-based access control using JWT.
 * Designed and optimized MySQL schemas, improving query performance.
 * Collaborated in API development and testing, ensuring smooth integration across modules.
+📌 *Private repository (company project)* 
 
 ---
 
@@ -71,7 +74,7 @@ TypeORM • Git • Postman • Swagger • REST APIs
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mohit-761-mv/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/mohit-761-mv/](https://www.linkedin.com/in/mohit-761-mv/)
 * 📧 Email: [mohit761.mv@gmail.com](mailto:mohit761.mv@gmail.com)
 
 ---
