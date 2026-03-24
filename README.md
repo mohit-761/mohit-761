@@ -42,7 +42,7 @@ TypeORM • Git • Postman • Swagger • REST APIs
 
 * Built RBAC-based session booking system with JWT authentication.
 * Automated recurring tasks using RabbitMQ + Cron, reducing manual workload by 15%.
-* Contributed to Razorpay payment gateway integration, ensuring secure and seamless transactions.
+* Contributed to Razorpay payment gateway integration, ensuring secure and seamless transactions.  
 📌 *Private repository (company project)* 
 
 ---
@@ -52,7 +52,7 @@ TypeORM • Git • Postman • Swagger • REST APIs
 
 * Refactored a monolith into 3 microservices, improving scalability by 30%.
 * Enabled bulk uploads (Excel/ZIP), cutting content upload time by 40%.
-* Integrated Strapi CMS for efficient content management and delivery.
+* Integrated Strapi CMS for efficient content management and delivery.  
 📌 *Private repository (company project)* 
 
 ---
@@ -61,7 +61,7 @@ TypeORM • Git • Postman • Swagger • REST APIs
 
 * Developed subscription-based access control using JWT.
 * Designed and optimized MySQL schemas, improving query performance.
-* Collaborated in API development and testing, ensuring smooth integration across modules.
+* Collaborated in API development and testing, ensuring smooth integration across modules.  
 📌 *Private repository (company project)* 
 
 ---
